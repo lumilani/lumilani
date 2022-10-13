@@ -1,7 +1,15 @@
-### Hi there 👋
-
+# Olá Mundo 👋
+## Sobre Mim  👩
+- Me chamo Lucilene Aparecida Milani Folieni.
+- Sou casada e tenho um filho.
+- Tenho experiência com vendas. 
+- Estou em processo de transição de carreira visando Quality Assurance ou Dev para isso estou cursando Bacharelado em Tecnologia da Informação pela Univesp.
+## Atualmente estou estudando 📖
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+## Conecte-se comigo 🔗
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 <!--
-**lumilani/lumilani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lumilani/lumilani** is a ✨ _specil_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
